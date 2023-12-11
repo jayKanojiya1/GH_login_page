@@ -33,7 +33,7 @@
 .text-field{
     border: 1px solid #e2e5ec;
     font-size: 14px;
-    padding: 10px 15px;
+   padding:  10px 200px 10px 12px;
 }
 .rounded-btn {
     color: #fff;
